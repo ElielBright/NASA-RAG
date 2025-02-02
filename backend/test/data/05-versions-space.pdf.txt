@@ -1,0 +1,1781 @@
+
+
+National Aeronautics and Space Administration
+www.nasa.gov
+NASA
+style
+fullGuide
+Creating Approved NASA Communications Material
+V. 2.1
+
+This Style Guide illustrates the unifying elements and their appropriate placement for 
+creating approved NASA communications material as required by the Communications 
+Material Review (CMR) Process. Go to the CMR Web site for more information on the 
+approval process and the point of contact for each center.
+CMR Web site: http://communications.nasa.gov/portal/site/osc
+Definitions: Communications material, for the purposes of this Style Guide, is defined as media that 
+is produced with NASA funds and conveys information about NASA projects, programs and results to 
+both external and internal audiences. Exceptions are posted on the CMR Web site.
+Internal audiences are defined as NASA employees and contractors. All others are considered external 
+audiences (i.e., media, general public, schools and universities, conferences, as well as federal, state 
+and local government entities).
+Design Compliance: In addition to these guidelines, educational communications material has other design 
+requirements. Please refer to the CMR Web site for the Education Functional Office point of contact.
+The following are exempt from the NASA Style guidelines: press releases, media advisories, technical or 
+scientific white papers, business correspondence and emails, intra-agency correspondence, directives 
+and regulations, budget documents, litigation materials, Office of Inspector General materials and History 
+Division publications.
+Editorial  Compliance: All  Public  Affairs  communications  material  must  be  written  in  the  Associated 
+Press (AP) style.  For all other communications material, use NPR 1450.10 for specific NASA writing 
+style guidelines, followed by the Government Printing Office Manual.
+Refer to NPR 1450.10 for the correspondence writing guide.
+This Style Guide is written in the AP style.
+508 Compliance: In order to comply with Section 508 of the Rehabilitation Act of 1973 as amended, all 
+media must be made available in accessible formats for individuals with disabilities.
+The NASA Style Guide is issued under the authority of 14 CFR 1221.
+
+ 
+Table of Contents 
+IntroductIon: The NASA Identity                                                                                                                             1
+BASIc ELEMEntS                                                                                                                                                    3
+The NASA Insignia                                                                                                                            5
+The NASA Identifier Configuration                                                                                                      6
+The Protected Space: Insignia and Identifier Configuration                                                                      7
+The NASA Insignia Colors                                                                                                                  8
+The NASA Portal Address                                                                                                                  9
+The NASA Typeface                                                                                                                       10
+NASA Headlines: Vertical Type                                                                                                        11
+NASA Imagery                                                                                                                             12
+NASA Imagery: Multiple Images                                                                                                       13
+AppLI  cAtIonS                                                                                                                                                    15
+publication Style
+Single-Page Publications: Fliers and Posters                                                                                      17
+Multipage Publications: Front and Back Cover                                                                                    18
+Multipage Publications: Newsletters and Magazines                                                                            19
+Multipage Publications: Brochures and Invitations                                                                               20
+Multipage Publications: Fact Sheet Template and Bookmark Templates                                                   21
+Multipage Publications: Press Kit Templates                                                                                       22
+Multipage Publications: Lithograph Templates                                                                                    23
+Exhibit Style
+8’ x 10’ Exhibits and Banner Stands                                                                                                  24
+Electronic Media
+Packaging                                                                                                                                   25
+Electronic Slide Presentation Template                                                                                              26
+Logos
+Project and Program Logos                                                                                                            27
+Co-Sponsor Logos                                                                                                                       28
+Astronaut Crew Emblems                                                                                                                29
+Signage
+Center Signs                                                                                                                               30
+Aircraft                                                                                                                                       31
+Vehicles                                                                                                                                     32
+Spacecraft                                                                                                                                   34
+StAtIonErY productS                                                                                                                                      36
+Off-the-Shelf Stationery                                                                                                                   37
+Center-Specific Stationery                                                                                                                38
+tHE nASA InSIGnIA                                                                                                                                             39
+  
+
+
+
+The NASA Identity 
+1
+ 
+The  goal  of  this  Style  Guide  is  to  establish  a  clear,  consistent  and  unique  visual  identity  for 
+NASA. The visual identity builds on NASA’s brand by combining the most recognized existing 
+elements—our  name  and  insignia—with  progressive  elements.  Uniform  graphic  elements  
+provide  the  framework  for  establishing  a  visual  identity.  In  turn,  designers  can  use  this 
+architecture to create materials that enhance public knowledge of NASA’s work. 
+Issued under the authority of 14 CFR 1221, this guide illustrates the unifying elements and 
+their appropriate placement for producing approved NASA communications material. The first 
+section defines the basic elements of the NASA visual identity and discusses its usage. The 
+remainder of the guide explores how to combine and incorporate the basic elements into the 
+agency’s communications material.
+DAVID MOuLD
+Assistant Administrator for Public Affairs
+
+
+
+basic elements
+
+[
+The vector represents aeronautics.
+The stars represent space.
+The orbit represents space travel. 
+The sphere represents a planet. 
+vEctor
+StArS
+orBIt
+SpHErE
+
+The NASA insignia is the only allowable logo for external communications material. The agency’s 
+policies regarding logo usage are designed to ensure that the public recognition of the NASA 
+insignia is not diluted by other NASA identities. Our prime brand identifier, the insignia reflects 
+the history and tradition of the agency. Commonly referred to as “the meatball,” the insignia 
+must be included on all agency publications, displays, visual communications and markings. 
+Designed in 1959 by former NASA employee James Modarelli, the NASA insignia contains the 
+following elements:
+Strict regulations and guidelines govern the use of the NASA insignia. The insignia cannot be 
+recreated, nor can it be distorted, stretched or otherwise altered. In order to protect its use, the 
+insignia is not authorized for download off the Web. Direct questions about the insignia to 
+the Headquarters Office of Public Affairs at 202-358-1600.
+Insignia Size 
+Always use an insignia that is properly proportioned to the size of the page or panel to which 
+it  is  being  applied. The  minimum  size  for  the  reproduction  of  the  NASA  insignia  is ⅝  inch 
+(not  including  the  points  of  the  vector),  with  the  exception  of  business  cards  and  approved 
+promotional  items.  If  a  smaller  insignia  is  required,  permission  must  be  received  from  the 
+Headquarters Office of Public Affairs at 202-358-1600.
+[
+The vector represents aeronautics.
+The stars represent space.
+The orbit represents space travel. 
+The sphere represents a planet. 
+vEctor
+StArS
+orBIt
+SpHErE
+The NASA insignia should be reproduced 
+only from original reproduction proofs, 
+transparencies or electronic files that can 
+be obtained from the Headquarters Office 
+of Public Affairs at 202-358-1600 or 
+each center’s Printing and Design Office.  
+Any insignia adaptations needed to 
+meet the printing requirements of other 
+formats (e.g., silkscreening, embossing, 
+etc.) must be pre-approved by the 
+Headquarters Office of Public Affairs.
+The insignia cannot be used in a 
+sentence or configured with other 
+symbols.
+Products that are exclusively for internal 
+use may include program and project 
+logos (see page 27). 
+Refer to page 28 for use of the insignia in 
+conjunction with the logos of co-funding 
+partners.
+Detailed instructions for using the 
+insignia can be found in the Insignia 
+Guide on page 39.
+See page 8 for variations on the insignia.
+5
+ THE NASA IDENTITy SySTEM
+The NASA Insignia: XXXXXXXXXXX The Basic Elements 
+Minimum Height
+5
+/
+8
+ 
+IncH
+
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+THE NASA IDENTITy SySTEM
+The Basic Elements  The NASA Identifier Configuration6
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and  
+Space Administration
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and 
+Space Administration
+Exploration
+Besides the insignia, the other NASA identifier is the agency name spelled out as “National 
+Aeronautics and Space Administration.” The combination of these two elements into a specific 
+identifier configuration (see example below) is a consistent part of our brand identity. 
+When using the configuration, the insignia within its protected space (page 7) must be aligned to 
+the right edge of the design border, and the agency name must be aligned to the left edge. The text 
+must be one line, except when used on smaller items such as bookmarks and trifold brochures. 
+However, breaking the agency name into two lines is not the preferred configuration. 
+When using the two-line form of the agency name, break the line after the word “and.” The 
+space between the lines must be two points greater than the point size of the agency name.
+As an alternate, a right-justified version of the configuration can be used. The agency name 
+should break after the word “and.” The space between the lines must be two points greater 
+than the point size of the agency name. 
+When using this version of the agency name, maintain a space of 1N height on either side of 
+the vertical line. The vertical line should not extend past the height of the NASA insignia.
+The NASA identifier  
+configuration includes:
+>>    the NASA insignia
+>>    the agency name spelled out
+The width between the agency name 
+and the insignia cannot be greater than 
+12S. The two identifiers must be 
+enlarged proportionately in order to 
+maintain the connection between them.
+For the agency name:
+>>   use Helvetica Medium in titlecase 
+>>   italics and extended type are  
+not allowed 
+>>   the font must be no smaller  
+than seven points
+>>   no special effects or shading may 
+be used
+Always locate the identifier configuration 
+on the front cover or page of all 
+communications material.
+Example of alternate configuration.
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and  
+Space Administration
+
+National Aeronautics and Space Administration
+2n
+4n
+1t
+4n
+2n
+1n
+4n
+1n
+w!
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+n
+t
+S
+T = Type height of agency name
+N = Type height of acronym
+S = Width of sphere
+7
+ THE NASA IDENTITy SySTEM
+Protected Space  The Basic Elements 
+n
+n
+n
+n
+1n
+Insignia Protected Space 
+The insignia protected space refers to the clear space surrounding the insignia in its entirety. 
+This clear space ensures the unobstructed and visible placement of the NASA insignia. The 
+minimum  width  for  the  protected  area  is  1N  height  from  the  edge  of  the  sphere. Text  and 
+images may not violate the insignia’s protected space.
+Identifier Configuration Protected Space 
+The identifier configuration protected space refers to the open space given to the identifier 
+configuration. The area of the protected space consists of 4N height starting at the bottom of 
+the sphere and extending across the width of the identifier configuration. Text may not violate 
+the identifier configuration's protected space. Use the chart below to determine the minimum 
+distances between the graphic and textual elements, as well as between the configuration and 
+the design border edge. 
+  
+
+THE NASA IDENTITy SySTEM
+The Basic Elements  The NASA Insignia Colors8
+The  insignia  has  three  variations:  a  full-color  insignia,  a  one-color  insignia  and  a  one-color 
+insignia  with  a  white  rule.  Select  the  most  appropriate  of  the  three  variations  of  the  insignia 
+based  on  production  requirements,  media  qualities,  visibility  and  proper  usage. For  more 
+information, refer to the Insignia Guide (page 39).
+NASA RED
+NASA BluE
+NASA GREy
+NASA SilVER
+NASA BlACk
+NASA Color Insignia Colors
+PANTONE 185 
+Process 0C,100M, 100y, 0K  
+RGB 252R, 61G, 33B
+PANTONE 286
+Process 100C, 060M, 0y, 0K 
+RGB 11R, 61G, 145B
+NASA Color Insignia Background Colors
+PANTONE Cool Grey 9
+Process 5C, 3M, 0y, 50K  
+RGB 121R, 121G, 124B
+PANTONE 877
+Metallic Silver
+No process or RGB color  
+substitution available.
+PANTONE Black 6
+Process 60C, 40M, 20y, 100K
+RGB 0R, 0G, 0B
+The full-color insignia: 
+>>   can never appear with a white rule
+>>   can be produced in PANTONE®, 
+process or the RGB color  
+formulas given on this page 
+>>   may appear on a white, grey 
+(PANTONE 423 or lighter), silver 
+(PANTONE 877 or metallic) or black 
+background 
+>>   may only be used on a full-color 
+photograph if placed in a solid black, 
+white or grey area 
+The NASA insignia colors may not  
+be used when creating other logos  
+(see pp. 27–29).
+Full-color insigniaOne-color insigniaOne-color insignia with 
+white rule
+
+9
+ THE NASA IDENTITy SySTEM
+The NASA Portal Address: The Basic Elements 
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+www.nasa.gov
+apollo
+Example of portal  
+placement.
+www.nasa.gov 
+The  NASA  portal  address  must  be  used  on  all  NASA  communications  material  except 
+certificates.  The  location  of  the  portal  address  should  reflect  its  position  as  an  essential 
+component of the overall visual language created by the communications material.
+The portal address must appear as 
+follows: www.nasa.gov. 
+The portal address may appear on 
+either the front or back cover of a 
+publication. Refer to the specific 
+application for placement location.  
+The only mandatory placement occurs 
+when it is used with a center or 
+program address on the back cover of 
+a multipage publication (see page 18).
+No Web address other than the 
+portal can appear on a single-page 
+publication or the front cover of a 
+multipage publication unless it is 
+part of the publication’s title or in 
+the body copy. However, a center or 
+program Web address may be placed 
+at the bottom of NASA’s physical 
+address on the back cover of a 
+multipage publication (see page 18).
+The portal address must be Helvetica 
+Bold and the same point size as the 
+agency identifier. The text must be 
+in lowercase. No special effects, 
+shadowing or italics may be used. 
+The portal address must remain 
+separate from the identifier 
+configuration and any other copy.
+
+THE NASA IDENTITy SySTEM
+The Basic Elements  The NASA Typeface10
+Additional fonts:
+When creating educational material 
+for middle-school or younger students, 
+audience-specific fonts may be used 
+for both the headlines and the body 
+text. Below are the approved fonts:
+ABCdef
+Comic Sans
+ABCdef
+Smile
+ABCdef
+Typewriter 
+ABCdef
+Kidprint 
+Arial may be used when Helvetica is 
+unavailable.
+ABCdef
+Three-dimensional typeface treatments  
+are not acceptable. Shadowing may  
+only be used for purposes of legibility  
+and not to add dimension.
+ABCdef
+Garamond Light
+ABCdef
+Garamond Book
+ABCdef
+Garamond Bold
+ABCdef
+Garamond Ultra
+ABCdef
+Garamond Light Italic
+ABCdef
+Garamond Book Italic
+ABCdef
+Garamond Bold Italic
+ABCdef
+Garamond Ultra Italic
+ABCdef
+Garamond Condensed Light
+ABCdef
+Garamond Condensed Regular
+ABCdef
+Garamond Condensed Bold
+ABCdef
+Garamond Condensed Ultra
+ 
+ABCdef
+Helvetica Light
+ABCdef
+Helvetica Roman
+ABCdef
+Helvetica Medium
+ABCde
+Helvetica Bold
+ABCdef
+Helvetica Light 
+Italic
+ABCdef
+Helvetica Roman 
+Italic
+ABCdef
+Helvetica Medium 
+Italic
+ABCde
+Helvetica Bold Italic
+ABCdef
+Helvetica Light 
+Condensed
+ABCdef
+Helvetica Condensed
+ABCdef
+Helvetica Medium 
+Condensed
+ABCdef
+Helvetica Bold 
+Condensed
+ABCdef
+Helvetica Light Extended
+ABCdef
+Helvetica Extended
+ABCdef
+Helvetica Medium 
+Extended
+ABCde
+Helvetica Bold Extended
+The  typeface  for  headlines,  subheads  and  call-outs  should  be  Helvetica  or,  if  unavailable, 
+Arial.  No  other  typefaces  may  be  used.  The  typeface  for  body  text  should  be  Helvetica  or 
+Garamond. 
+
+National Aeronautics and Space Administration
+11
+   THE NASA IDENTITy SySTEM
+NASA Headlines: Vertical Type The Basic Elements 
+4n
+1
+Examples of vertical 
+headlines.
+director
+y
+Headquarters Directory
+Spring 2007
+National Aeronautics and Space Administration
+As  another  element  of  the  NASA  style,  vertical  layouts  of  short,  primary  headlines  are 
+encouraged  on  single-page  publications  and  the  front  covers  of  multipage  publications.  A 
+single line is the only allowable format; longer headlines should be horizontal.
+Use lowercase letters for the text.  
+Acronyms, however, must be all 
+uppercase. 
+Align the vertical text so that the  
+x-height of the letters is centered 
+below the insignia.
+Vertical text must be placed on  
+the right side of the publication. A 
+vertical headline may not be more  
+than one line of text, and the text  
+must read upward.
+Vertical type may not violate the   
+identifier configuration’s protected 
+space.
+Vertical type must appear in Helvetica 
+or, if unavailable, Arial.
+Horizonal headlines may not use the 
+lowercase style of vertical headlines.
+1
+ X = Height of the main body of the  
+vertical headline, excluding ascenders  
+and descenders
+ABCdef
+Garamond Light
+ABCdef
+Garamond Book
+ABCdef
+Garamond Bold
+ABCdef
+Garamond Ultra
+ABCdef
+Garamond Light Italic
+ABCdef
+Garamond Book Italic
+ABCdef
+Garamond Bold Italic
+ABCdef
+Garamond Ultra Italic
+ABCdef
+Garamond Condensed Light
+ABCdef
+Garamond Condensed Regular
+ABCdef
+Garamond Condensed Bold
+ABCdef
+Garamond Condensed Ultra
+ 
+X
+
+THE NASA IDENTITy SySTEM
+The Basic Elements  NASA Imagery12
+The use of tight, up-close images—even when depicting a vast panorama—is an  
+essential component of NASA’s communication strategy. 
+With such vast resources available from the NASA photographic collection, designers should 
+find it easy to enrich our communications by using strong and compelling images that engage 
+the viewer.  
+Remember the human element 
+whenever possible.
+Avoid stagnant shots of buildings and 
+machinery. Instead, depict these items 
+in a manner that conveys what makes 
+them innovative and exciting.
+No name brand consumer 
+products may be shown in any 
+NASA publication without prior 
+written agreement by the Assistant 
+Administrator for Public Affairs or 
+designee. 
+Avoid overlapping the edges of 
+images. Refer to page 13 for 
+guidelines regarding designs using 
+multiple images.
+   
+
+13
+ THE NASA IDENTITy SySTEM
+NASA Imagery: Multiple Images The Basic Elements 
+x
+ 
+unacceptable
+National Aeronautics and Space Administration
+www.nasa.gov
+Exploration
+Arrangements of multiple images are permitted when the graphic elements function both as 
+separate images and as part of a whole piece—clear, elegant, unified. A successful design 
+relies on images presented with simple and clean lines. 
+Multiple Image Guidelines: 
+Do Use . . .
+>>   Tight, up-close images
+>>   The human element
+>>   Professional-quality images
+>>   Closely cropped photos 
+>>   Complementary content
+>>   Clear images
+>>   Simple and clean lines
+Avoid . . .
+>>    Extreme overlapping of image 
+edges
+>>   Excessive superimposing of 
+images
+>>   Busy and disorganized designs
+>>   Unclear themes
+>>   Competing content
+>>   Stagnant shots of buildings and 
+machinery
+
+
+
+applications
+
+
+
+1717
+ THE NASA IDENTITy SySTEM
+Single-Page Publications: Fliers and Posters Publication Style 
+Está prohibido por ley que los beneficiarios de asistencia financiera 
+Federal de la Administración Nacional de Aeronáutica y el Espacio de 
+los Estados Unidos (conocido en inglés como la NASA), como es el caso 
+de las instituciones educacionales, organizaciones sin fines de lucro y 
+corporaciones privadas, discriminen en base de:
+Raza 
+|
+ Color 
+|
+ Origen Nacional (incluyendo las personas con conocimientos
+limitados de inglés) 
+|
+ Sexo 
+|
+ Incapacidad (física o mental) 
+|
+ Edad 
+|
+ Represalia 
+por haber radicado una queja anterior de discriminación.
+Para recibir más información o registrar una queja de un caso de
+discriminación bajo cualquier programa o actividad que reciba asistencia
+financiera de la NASA, sírvase contactar a:
+National Aeronautics and Space Administration
+Office of the Assistant Administrator for Diversity and Equal Opportunity
+300 E Street SW, Washington, DC
+Linea de Quejas: 866-654-1440
+Teléfono: 202-358-2167
+Equipo de Telecomunicación Para Sordos
+(TDD por sus siglas en inglés): 202-358-3748
+Fax: 202-358-3336
+Correo Electrónico: AssistedProgramComplaint@NASA.gov  
+o LEP@NASA.gov
+www.nasa.gov
+National Aeronautics and Space Administration
+La Igualdad De
+Oportunidades:
+Es la Ley | Conozca Sus Derechos y Responsabilidades
+Fliers  and  posters  must  incorporate  all  of  the  communication  elements  according  to  the 
+placement standards. The preferred location of the portal address is the lower left-hand corner. 
+No Web address other than that of the portal can appear unless it is part of the publication’s 
+title or other body text. 
+A double-sided poster must follow the 
+standards for a multipage publication.
+National Aeronautics and Space Administration
+www.nasa.gov
+Exploration
+
+18
+THE NASA IDENTITy SySTEM
+Publication Style  Multipage Publications: Front and Back Cover18
+1
+ Agency Name:
+ Spelled out in one line, Helvetica Medium,  
+8 Point (pt), Flush Left (FL)
+ Center Name:
+ Helvetica Bold, 8 pt, Line Space (LS) 14 pt, FL
+ Center Physical and Web Addresses:
+  Helvetica Roman, 8 pt, 3 lines as shown, LS 10, FL
+ Agency Portal Address:
+ Helvetica Bold, 8 pt, LS 21, FL
+ Publication Number:
+  Helvetica Roman, 6 pt, one line, minimum LS 40,  
+FL, bottom justified 
+  
+www.nasa.gov
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+Front cover Back cover with portal only 
+1
+National Aeronautics and Space Administration
+Langley research center
+100 NASA Road
+Hampton, VA 23681
+www nasa gov/centers/langley
+www.nasa.gov
+NP-2004-01-999-LRC
+National Aeronautics and Space Administration
+Langley research center
+100 NASA Road
+Hampton, VA 23681
+www nasa gov/centers/langley
+www.nasa.gov
+NP-2004-01-999-LRC
+Back cover with both the portal and 
+center Web addresses
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+Front cover 
+Educational Product
+Educators & Students
+Grades 9–12
+The NASA identifier configuration must appear on the front cover of multipage publications. 
+Center and program names cannot appear on the front cover unless they are part of the publi-
+cation’s title. Center names and physical and Web addresses may appear on the back cover.
+The preferred location of the portal address is on the back cover. No Web address other than 
+that of the portal can appear on the front cover unless it is part of the publication’s title. If both 
+the portal and center or program Web addresses are used on the back cover, they must be 
+configured per the example below. 
+The publication number must be placed in the lowermost left-hand corner of the back cover.
+Vertical headline is the preferred 
+format for the title (page 11).  
+Publication numbers are allocated by 
+each center’s chief printing specialist.
+Educational Products: 
+In addition to the usual branding 
+elements, educational products must 
+carry a box identifying the intended 
+users and grade levels. The box may 
+appear in either of the lower corners 
+of the front cover. (See below for an 
+example showing the box in the lower 
+right-hand corner.)
+
+1919
+ THE NASA IDENTITy SySTEM
+Multipage Publications: Newsletters and Magazines Publication Style 
+director
+y
+Headquarters Directory
+Spring 2007
+National Aeronautics and Space Administration
+Examples of interior page formats
+The format and layout of newsletters and magazines should be designed as part of the overall 
+communication  goal  of  the  item  with  both  the  subject  matter  and  audience  in  mind. There 
+are no grid or layout specifications for the inside pages of a multipage publication. The only 
+specification is the placement of the elements per this guide. 
+A single line of text is the preferred 
+format for the newsletter’s name.
+
+20
+THE NASA IDENTITy SySTEM
+Publication Style  Multipage Publications: Brochures and Invitations20
+National Aeronautics and Space Administration
+Title VI of the Civil Rights Act of 1964 
+and Related Nondiscrimination Laws
+Nondiscrimination and Equal Opportunity 
+in NASA-Assisted Programs and Activities: 
+diversity
+National Aeronautics and Space Administration
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration National Aeronautics 
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+Example of a lettersize layout
+Example of a custom-size layout
+Example of a trifold brochure layout
+Example of a lettersize cover 
+design
+Example of a custom-size 
+cover design
+Example of a trifold 
+brochure cover design
+Just like with other multipage publications, there are no grid or layout specifications for the 
+inside  pages  of  brochures  and  invitations.  However,  the  placement  of  the  elements  must 
+conform to the standards. Because of size limitations, the agency name may be stacked and 
+broken into two lines after the word “and” on trifold brochures (see page 6).
+
+2121
+ THE NASA IDENTITy SySTEM
+Multipage Publications: Fact Sheet Template Publication Style 
+   The Phoenix Mars Lander is the first project in 
+NASA’s openly competed program of Mars Scout 
+missions. Phoenix will land in icy soils near the 
+north polar permanent ice cap of Mars and explore 
+the history of the water in the ice while monitoring 
+polar climate. It will serve as NASA’s first explora-
+tion of a potential modern habitat on Mars and 
+renew a search for carbon-bearing compounds, 
+last attempted with NASA’s Viking missions in the 
+1970s. 
+   Launch opportunity dates for Phoenix begin Aug. 
+3, 2007. If Phoenix launches during the first por-
+tion of a three-week launch opportunity, it will land 
+May 25, 2008. The landing will be on arctic ground 
+where a mission currently in orbit, Mars Odys-
+sey, has detected high concentrations of ice just 
+beneath the top layer of soil. 
+   A stereo color camera and a weather station will 
+study the surrounding environment while the other 
+instruments check samples of soil and ice for evi-
+dence about whether the site was ever hospitable 
+to life. Microscopes will reveal features as small as 
+one one-thousandth the width of a human hair. 
+   Like its namesake mythological bird, Phoenix 
+rises from remnants of its predecessors. It will use 
+many components of a spacecraft originally built 
+for a 2001 Mars lander mission, which was kept in 
+careful storage after that mission was cancelled. 
+The science payload for Phoenix includes instru-
+ments built for the 2001 lander and improved 
+versions of others flown on the lost Mars Polar 
+Lander in 1999. 
+Science Objectives 
+   Findings from Mars Odyssey indicate the top 
+half meter (20 inches) of Mars’ surface layer is 
+mostly ice throughout large regions of the planet 
+pole-ward of 65 degrees north latitude. Phoenix 
+will seek clues about the history of that ice. Is 
+this the frozen residue of an ancient ocean? Did 
+it diffuse into the ground from water vapor in the 
+atmosphere? Did a retreating ice sheet leave it be-
+hind? Information such as the amount of layering, 
+the textures of the ice and soil, and the chemical 
+composition at different depths could distinguish 
+among those and other possibilities. 
+   Indicators about the history of the near-surface 
+ice, together with Phoenix instruments’ observa-
+tions of seasonal changes over a span of several 
+months, will improve understanding about climate 
+cycles on Mars. One tantalizing question is wheth-
+er cycles, either short-term or long-term, might 
+Mars Phoenix Lander 
+NASA has launched two powerful new Mars rovers 
+named Spirit and Opportunity  The two spacecraft 
+carrying these Mars Exploration Rovers are more 
+than halfway to Mars  Spirit and Opportunity are 
+larger, more mobile and better equipped than then 
+1997 Mars Pathfinder rover  Each carries a sophis-
+ticated set of instruments to search for evidence 
+about whether past environments at selected sites 
+were wet enough to be hospitable to life  The two 
+rovers are identical, but will land at different regions 
+of Mars 
+NASA has launched two powerful new Mars rovers 
+named Spirit and Opportunity  The two spacecraft 
+carrying these Mars Exploration Rovers are more 
+than halfway to Mars  Spirit and Opportunity are 
+larger, more mobile and better equipped than then 
+1997 Mars Pathfinder rover  Each carries a sophis-
+ticated set of instruments to search for evidence 
+about whether past environments at selected sites 
+were wet enough to be hospitable to life  The two 
+rovers are identical, but will land at different regions 
+of Mars  NASA has launched two powerful new 
+Mars rovers named Spirit and Opportunity  The two 
+spacecraft carrying these Mars Exploration Rovers 
+are more than halfway to Mars  Spirit and Oppor-
+tunity are larger, more mobile and better equipped 
+than then 1997 Mars Pathfinder rover  Each carries 
+a sophisticated set of instruments to search for evi-
+dence about whether past environments at selected 
+sites were wet enough to be hospitable to life  The 
+two rovers are identical, but will land at different 
+regions of Mars 
+Mission overview
+Both rovers were launched from Cape Canaveral 
+Air Force Station, Florida  Spirit ascended on June 
+10, 2003, and Opportunity followed on July 7, 2003  
+Spirit will reach Mars January 4, 2004, Opportunity 
+on January 25, 2004 (universal Time; both landings 
+will be the preceding evenings Pacific Time) 
+The landing for each will resemble that of the Path-
+finder spacecraft  A parachute will deploy to slow 
+the spacecraft and airbags NASA has launched two 
+powerful new Mars rovers named Spirit and Op-
+portunity  The two spacecraft carrying these Mars 
+Exploration Rovers are more than halfway to Mars  
+Spirit and Opportunity are larger, more mobile and 
+better equipped than then 1997 Mars Pathfinder 
+rover  Each carries a sophisticated set of instru-
+ments to search for evidence about whether past 
+environments at selected sites were wet enough to 
+be hospitable to life  The two rovers are identical, 
+but will land at different regions of Mars 
+Front  Back
+FrontBack
+ Front options Back
+believe
+New Technology 
+Means New Hope
+Foe New lives
+discover
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and 
+Space Administration
+discover
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+Multipage Publications: Bookmark Templates
+The layout of these templates have 
+CMR pre-approval; however, the 
+publication must still go through the 
+CMR process. Please see the CMR 
+Web site for more information on 
+template use.
+Bookmarks should be used to  
+convey a very limited amount of text. 
+If more space is needed, a brochure 
+should be created instead.
+www.nasa.gov
+www.nasa.gov
+NASA has launched two powerful new 
+Mars rovers named Spirit and Opportu-
+nity  The two spacecraft carrying these 
+Mars Exploration Rovers are more than 
+halfway to Mars  Spirit and Opportu-
+nity are larger, more mobile and better 
+equipped than then 1997 Mars Pathfinder 
+rover  Each carries a sophisticated set of 
+instruments to search for evidence about 
+whether past environments at selected 
+sites were wet enough to be hospitable 
+to life  The two rovers are identical, but 
+will land at different regions of Mars 
+Both rovers were launched from Cape 
+Canaveral Air Force Station, Florida  
+Spirit ascended on June 10, 2003, and 
+Opportunity followed on July 7, 2003  
+Spirit will reach Mars January 4, 2004, 
+Opportunity on January 25, 2004 (uni-
+versal Time; both landings will be the 
+preceding evenings Pacific Time) 
+Mission overview
+Both rovers were launched from Cape 
+Canaveral Air Force Station, Florida  
+Spirit ascended on June 10, 2003, and 
+Opportunity followed on July 7, 2003  
+Spirit will reach Mars January 4, 2004, 
+Opportunity on January 25, 2004 (uni-
+versal Time; both landings will be the 
+preceding evenings Pacific Time) 
+The landing for each will resemble that of 
+the Pathfinder spacecraft  A parachute 
+will deploy to slow the spacecraft and air-
+bagsNullaor ad do corpero eummodiam, 
+velendit lute modolor perostrud dolutet 
+lorper sequam qui bla consequipit do con 
+erat laorem illut nonsenim nulput doluptat 
+dolortin ea commodo loborperatem 
+volorer autpat  Ipit lamet nulla feuis nos 
+acidui blam, quat  Quatis nulputpat, si tin 
+vullamet, corpercidunt augiamet loborer 
+ciduip el ut autatuerat 
+ud ea commolortin volum nim amet vel utatet 
+veniam, quatem vel ullaor sit lore dit la facilit 
+luptatie con ver se conullam nis atem dignim 
+num eumsan volummod erat, sequat. 
+Velit lum vullam quisim vullutatio odignis 
+adigna feu facipis euis dolortie del del 
+er sed duipis non ercilit, conse dit, quat 
+accumsan ulla facinci liquat irit, sequatet, 
+velessi blametu eraesequatio consed 
+tetum dionsenim il ut dolore delent at, 
+consed tet landrem volor am ex eummy 
+non verosto dolendrerit lamcomm olobor 
+alit ver iustin ea facin eliquissed digna 
+alisissim del ipit lam del iriure dolorem do 
+ercipit augiatet irilla aut alit aut la feuis-
+molor sequis doloreet, consecte ent ipit 
+esequat ismodip sustin elent nis nulla 
+autate corerat adipit am do estrud min 
+euipsustrud ming euismodip er sit lamcon 
+eniam esed magniate er sectem vullaore 
+tat  ut estio diamet alit aut adignim ver si 
+Ipsuscilit lor si tio commolo rperci ex et 
+lut ipisi 
+Tat utpat  uguero dolorti onulluptat ve-
+lessed magna conse mod duis adipsus 
+tinisi 
+Mars Exploration NASAfacts
+NASA has launched two powerful new 
+Mars rovers named Spirit and Opportu-
+nity  The two spacecraft carrying these 
+Mars Exploration Rovers are more than 
+halfway to Mars  Spirit and Opportu-
+nity are larger, more mobile and better 
+equipped than then 1997 Mars Pathfinder 
+rover  Each carries a sophisticated set of 
+instruments to search for evidence about 
+whether past environments at selected 
+sites were wet enough to be hospitable 
+to life  The two rovers are identical, but 
+will land at different regions of Mars 
+Both rovers were launched from Cape 
+Canaveral Air Force Station, Florida  
+Spirit ascended on June 10, 2003, and 
+Opportunity followed on July 7, 2003  
+Spirit will reach Mars January 4, 2004, 
+Opportunity on January 25, 2004 (uni-
+versal Time; both landings will be the 
+preceding evenings Pacific Time) 
+Mission overview
+Both rovers were launched from Cape 
+Canaveral Air Force Station, Florida  
+Spirit ascended on June 10, 2003, and 
+Opportunity followed on July 7, 2003  
+Spirit will reach Mars January 4, 2004, 
+Opportunity on January 25, 2004 (uni-
+versal Time; both landings will be the 
+preceding evenings Pacific Time) 
+The landing for each will resemble that of 
+the Pathfinder spacecraft  A parachute 
+will deploy to slow the spacecraft and air-
+bagsNullaor ad do corpero eummodiam, 
+velendit lute modolor perostrud dolutet 
+lorper sequam qui bla consequipit do con 
+erat laorem illut nonsenim nulput doluptat 
+dolortin ea commodo loborperatem 
+volorer autpat  Ipit lamet nulla feuis nos 
+acidui blam, quat  Quatis nulputpat, si tin 
+vullamet, corpercidunt augiamet loborer 
+ciduip el ut autatuerat 
+ud ea commolortin volum nim amet vel 
+utatet veniam, quatem vel ullaor sit lore 
+dit la facilit luptatie con ver se conullam 
+nis atem dignim num eumsan volum-
+mod erat, sequat  Velit lum vullam quisim 
+vullutatio odignis adigna feu facipis euis 
+dolortie del del er sed duipis non ercilit, 
+conse dit, quat accumsan ulla facinci 
+liquat irit, sequatet, velessi blametu er-
+aesequatio consed tetum dionsenim il ut 
+dolore delent at, consed tet landrem volor 
+am ex eummy non verosto dolendrerit 
+lamcomm olobor alit ver iustin ea facin 
+eliquissed digna alisissim del ipit lam del 
+iriure dolorem do ercipit augiatet irilla 
+aut alit aut la feuismolor sequis doloreet, 
+consecte ent ipit esequat ismodip sustin 
+elent nis nulla autate corerat adipit am do 
+estrud min euipsustrud ming euismodip 
+er sit lamcon eniam esed magniate er 
+sectem vullaore tat  ut estio diamet alit 
+aut adignim ver si 
+Ipsuscilit lor si tio commolo rperci ex et 
+lut ipisi 
+Tat utpat  uguero dolorti onulluptat ve-
+lessed magna conse mod duis adipsus 
+tinisi 
+Ip ex etum ilissen iamcommy numsan 
+ullam il dunt nulput in ea am, quam, con 
+ut augiat adio dolore magnim iurem ius-
+cilissi eumsandre duiscin eui blandignit 
+iure do dolore tat nulput adiam dolor sit 
+praestrud eugait acilla consecte feugait 
+ate magnim delis dolorem ilissenisis do 
+consequat aute vel ex exer secte mod 
+modio cor autpat  ut utpat  Duisl utem 
+nulla faccums andreet luptat 
+Accumsandion eu facip ero odolorp 
+erciduisl estrud modoluptatio cor si blam 
+in elismod oloboreet ut accum adiamco 
+mmodiat nostinim iustie do do commy 
+nos dipit alis nulputetuer sustrud do dolut 
+Mars Exploration NASAfacts
+interior pages
+www.nasa.gov
+National Aeronautics and Space Administration
+Jet propulsion Laboratory
+California Institute of Technology
+Pasadena, CA 91109
+www.nasa.gov
+National Aeronautics and 
+Space Administration
+NASA Fact Sheets are either two- or four-page documents. Printed in color or black and white, 
+the NASA fact sheet template may be downloaded at http://communications.nasa.gov/portal/
+site/osc/.
+Bookmarks  are  considered  multipage  publications  with  an  image  and  title  on  one  side  and 
+text on the other. Vertical bookmarks may have the identifier configuration on either the image 
+side or the text side. Horizontal bookmarks may only have the identifier configuration on the 
+text  side.  Go  to http://communications.nasa.gov/portal/site/osc/  for  both  the  horizontal  and 
+vertical templates.
+
+THE NASA IDENTITy SySTEM
+Publication Style  Multipage Publications: Press Kit Templates22
+NASA  press  kits  are  multipage  documents  that  include  a  cover,  table  of  contents  and  text 
+copy. The NASA press kit template may be downloaded at http://communications.nasa.gov/
+portal/site/osc/.
+ 
+www.nasa.gov
+National Aeronautics and Space Administration
+PRESS KIT/JuNE 2006
+cEv1
+Initial Launch
+www.nasa.gov
+National Aeronautics and Space Administration
+PRESS KIT/JuNE 2006
+cEv1
+Initial Launch
+Example of a horizontal press kit layout
+Example of a vertical press kit layout
+The layout of these templates have 
+CMR pre-approval; however, the 
+publication must still go through the 
+CMR process. Please see the CMR 
+Web site for more information on 
+template use.
+
+23
+  THE NASA IDENTITy SySTEM
+Multipage Publications: Lithograph Templates Publication Style 
+NASA  lithographs  are  considered  multipage  publications.  Go  to http://communications.nasa.
+gov/portal/site/osc/for both horizontal and vertical templates that must be used when creating 
+lithographs.    
+Crew Exploration Vehicle (CEV)
+www.nasa.gov
+National Aeronautics and Space Administration
+Crew Exploration Vehicle (CEV)
+www.nasa.gov
+National Aeronautics and Space Administration
+Example of a vertical lithograph layout
+Example of a horizontal lithograph layout
+The layout of these templates have 
+CMR pre-approval; however, the 
+publication must still go through the 
+CMR process. Please see the CMR 
+Web site for more information on 
+template use.
+
+24
+THE NASA IDENTITy SySTEM
+Exhibit Style  8’ x 10’ Exhibits and Banner Stands24
+Consider the space 2’ from the 
+lower edge as an allowance for 
+table space. The main subject 
+matter of the exhibit should be 
+placed higher than this allowance. 
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+www.nasa.gov
+National Aeronautics and Space Administration
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+www.nasa.gov
+National Aeronautics and Space Administration
+As with all publications, the NASA elements must be used according to this style guide. See 
+the Headquarters Exhibits Manager in the Office of Public Affairs for exhibits beyond 8’ x 10’ 
+to  ensure  the  arrangement  of  the  elements  is  consistent  with  NASA’s  overall  publication 
+standards.
+
+25
+ THE NASA IDENTITy SySTEM
+Packaging: Electronic Media 
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+www.nasa.gov
+CD/DVD label Jewel Case
+Videotape labels
+CD/DVD Cover
+CD/DVD label
+National Aeronautics and  
+Space Administration
+www.nasa.gov
+CD/DVD jewel case covers or videotape covers with both a front and a back must conform to the 
+cover standards for a multipage publication (see page 18). If the case cover only has a printed 
+front, then it must conform to the standards for a single-page publication (see page 17). 
+CD/DVD labels must use the identifier configuration and the portal address. For the dual labels 
+used for video tapes, the insignia must appear on the spine and the NASA name and portal 
+address must appear on the face.
+
+THE NASA IDENTITy SySTEM
+Electronic Media  Electronic Slide Presentation Template  26
+www.nasa.gov
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+Title Master
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration Title of Presentation 00
+A Shuttle’s
+  Tale
+National Aeronautics and Space Administration
+Www.Nasa.Gov
+Example of a presentation first page design
+Example of a presentation interior page design
+Electronic slide presentations are an important component of NASA’s communication strategy. 
+Therefore,  it  is  encouraged  that  all  presentations  incorporate  the  elements  correctly  and 
+consistently.
+When  placing  the  NASA  elements,  think  of  an  electronic  slide  presentation  as  a  multipage 
+publication  with  the  first  slide  as  the  front  cover,  the  last  slide  as  the  back  cover  and  the 
+slides  in  between  as  the  inside  pages.  However,  the  insignia  may  be  centered  on  the  last 
+slide as a sign off. In order to make usage as simple as possible, tutorial and master slides 
+may  be  downloaded  at http://communications.nasa.gov/portal/site/osc/. This  template  has 
+Communications Material Review preapproval.
+
+27
+National Aeronautics and Space Administration  
+www.nasa.gov
+ 
+kEEp CENTER AND pROGRAM lOGOS WiTHiN THE DEFiNED AREA BElOW
+4n
+4n
+According to the Code of Federal 
+Regulations 14 CFR 1221.112, 
+program identifiers must have 
+the pre-approval of the Associate 
+Administrator for Public Affairs or 
+designee.
+When designing a publication 
+with project and program logos:
+Do . . .
+>>    Design the logo smaller than  
+S space
+>>    Place in the available space 
+of the lower ¼ of the page as 
+illustrated
+Do Not . . .
+>>    Use without the NASA identifier 
+configuration
+>>   Use NASA colors (see page 8)
+>>    Combine with project or program 
+name in order to mirror the NASA 
+identifier configuration
+>>    Violate the protected areas of the 
+insignia, configuration and portal 
+address
+>>    Place on the back cover of a 
+multipage publication
+Logo
+AvAILABLE
+SpAcE
+AvAILABLE
+SpAcE
+1
+1
+ On a multipage publication, 
+if the portal address is 
+placed on the back cover, 
+then this space is available 
+for a logo.
+27
+ THE NASA IDENTITy SySTEM
+Project and Program Logos: Logos 
+The NASA logo remains the sole identifier for external audiences. However, project and program 
+logos may be used on communications material directed at internal audiences only.
+The agency’s policies regarding logo usage are designed to ensure that the public recognition 
+of our primary identifier—the NASA insignia—is not diluted by other NASA identities. 
+On a single-page publication or the front cover of a multipage publication, the project or program 
+logo must be located in the available space (see illustration below), but there is no preferred 
+location  within  this  area.  Project  and  program  logos  may  not  appear  on  the  back  cover  of  a 
+multipage publication.
+S SPACE
+
+28
+THE NASA IDENTITy SySTEM
+Logos  Co-Sponsor Logos
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+Examples of acceptable  
+co-sponsor logo groupings
+Logos  of  co-funding  partners  may  be  used  in  NASA  communications  material,  commercial 
+merchandise,  hardware  or  vehicles  if  they  have advance  approval  by  the  Assistant 
+Administrator for Public Affairs or designee.
+Communications material developed with co-sponsors is not considered an exclusive NASA 
+publication. Therefore, the guidelines for the identifier configuration do not apply.
+When  creating  a  grouping  for  a  NASA  publication,  the  insignia  must  be  the  first  logo  to 
+appear—farthest left in a horizontal configuration or topmost in a vertical one.
+The NASA insignia and other logos must be of the same height and width so that they all carry 
+the same visual weight.
+The protected space of the insignia must be maintained (see page 7).
+A co-sponsor is defined as a  
+co-funding partner who is not a  
+NASA contractor.
+Contractor logos (including the JPL 
+logo) should not be used on any type 
+of NASA communication materials, 
+commercial merchandise, hardware 
+or vehicles unless authorized by the 
+Assistant Administrator for Public 
+Affairs or designee.  
+
+29
+ THE NASA IDENTITy SySTEM
+Astronaut Crew Emblems  Logos
+C
+r
+e
+w
+ 
+N
+a
+m
+e
+ 
+•
+ 
+C
+r
+e
+w
+ 
+N
+a
+m
+e
+ 
+•
+ 
+C
+r
+e
+w
+ 
+N
+a
+m
+e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C
+r
+e
+w
+ 
+N
+a
+m
+e
+ 
+ 
+M
+I
+S
+S
+I
+O
+N
+ 
+0
+0
+possible shapes for astronaut 
+crew emblems.
+Astronaut crew emblems for human spaceflight are an established form of visual identification 
+for a particular crew. These emblems are designed by the crew members to be used on items 
+specific to that particular mission, such as crew clothing/uniforms, lapel pins, press kits and 
+crew lithographs or posters. The shape of the emblem is at the discretion of the crew. These 
+emblems  will  not  be  used  on  any  publications  (other  than  press  kits  or  other  documents 
+approved by the Assistant Administrator for Public Affairs or designee), and will not be used 
+next to the NASA insignia.
+Because of size considerations, the NASA insignia cannot be used on astronaut crew emblems. 
+In addition, the names or logos of contractors may not be included. Logos of other international 
+space agencies or co-sponsors may be used on communications material, hardware, vehicles 
+or  spacecraft  as  long  as  they  are  reviewed  and  approved,  in  advance,  by  the  Assistant 
+Administrator for Public Affairs or designee.
+While astronaut crew emblems are 
+acceptable, in order to maintain a 
+unified presentation, center, program 
+and project logos may not appear 
+on external NASA communications 
+material (see page 27).
+
+30
+THE NASA IDENTITy SySTEM
+Signage  Center Signs
+National Aeronautics and Space Administration
+langley 
+Research Center
+c
+6 Miles
+Directional signs outside a center 
+may use the insignia alone 
+in order to conform to local 
+regulations  However, the color 
+and spacial standards for the 
+insignia must be retained 
+9a
+Mockup and 
+Integration 
+Laboratory
+c
+Exterior directional sign inside 
+a center
+Exterior directional sign outside a center
+All exterior signs located outside a center must have the NASA identifier configuration placed 
+according to the standards. Exterior signs located inside a center, such as building signs, are 
+not required to have any NASA identifiers.
+
+31
+ THE NASA IDENTITy SySTEM
+Aircraft Signage 
+947
+1N
+3N
+1N
+1N, Helvetica Heavy
+NASA Blue
+NASA Silver
+Placement  of  the  identifier  configuration  must  conform  to  Federal  Aviation  Administration 
+regulations  (Title  14,  Code  of  Federal  Regulations,  Part  45,  Identification  and  Registration 
+Marking)  and  be  consistent  with  the  standards  established  in  this  Style  Guide.  Contractor 
+names and logos may not appear.
+
+32
+THE NASA IDENTITy SySTEM
+Signage  Vehicles
+Space following 
+each section  
+is 60 pt
+1
+ Government Disclaimer
+Helvetica Light 
+Point Size 75 pt, Line Space 75 pt 
+All Type Flush Left
+Agency Identifier
+Helvetica Roman 
+Point Size 105 pt, Line Space 100 pt
+Center Name
+Helvetica Bold 
+Point Size 105 pt, Line Space 100 pt
+passenger-side door
+1N
+Please refer to the following illustrations for guidelines on how to place the NASA identifier 
+configuration on goverment-funded vehicles. Contractor names and logos may not be used.
+1
+ 
+1
+ 
+2
+  The height of the NASA insignia should 
+be equal to the combined height of the 
+agency and center names
+2
+ 
+Driver-side door
+
+33
+ THE NASA IDENTITy SySTEM
+Vehicles  Signage 
+When the width between the 
+agency name and the insignia 
+becomes greater than 12S, the 
+two identifiers may be enlarged 
+and placed independently. 
+
+34
+THE NASA IDENTITy SySTEM
+Signage  Spacecraft
+Approved NASA identifiers for spacecraft include the NASA insignia, United States or the USA 
+abbreviation and the flag of the United States. 
+According  to  the  Code  of  Federal  Regulations  14  CFR  1221.112,  program  identifiers  must 
+have the pre-approval of the Associate Administrator for Public Affairs or designee.
+
+35
+ THE NASA IDENTITy SySTEM
+XXXXXXXXXXX: XXXXXXXXXXX NASA Publication Style 
+stationery products
+
+
+
+37
+ THE NASA IDENTITy SySTEM
+Off-the-Shelf Stationery Stationery Products 
+Rachel Williams
+In recognition of your contribution to the
+National Aeronautics and Space Administration.
+On behalf of a grateful NASA community,
+thank you for a job well done.
+Presented to
+Ce r  ti fic ate o f  Appr e   cia ti on
+NASA Headquarters
+National Aeronautics and Space Administration
+Y o l a n d e   H a r d e n
+H e a d q u a r t e r s   P r o c u r e m e n t   M a n a g e m e n t
+S u r v e y   M a n a g e r
+A p r i l   2 3 – M a y   4 ,   2 0 0 7
+Table Tent   NF 1754
+Jonathon Doe
+Chief Engineer
+An alternative silver and 
+blue folder is available at 
+minimal cost. 
+invitation, Note Card and
+Thank you Card   NF 1751
+Name Badge   NF 1753
+Jonathon Doe
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+.ATIONAL !ERONAUTICS AND 3PACE !DMINISTRATION
+%XPLORE $ISCOVER 5NDERSTAND
+National Aeronautics and Space Administration
+Certificates   NF 1755
+National Aeronautics and Space Administration
+Rachel Williams
+In recognition of your contribution to the
+National Aeronautics and Space Administration.
+On behalf of a grateful NASA community,
+thank you for a job well done.
+Presented to
+Y o l a n d e   H a r d e n
+H e a d q u a r t e r s   P r o c u r e m e n t   M a n a g e m e n t
+S u r v e y   M a n a g e r
+A p r i l   2 3 – M a y   4 ,   2 0 0 7
+Ce r  ti fic ate o f  Appr e   cia ti on
+NASA Headquarters
+White Folder   NF 728
+program   NF 1750
+The following preprinted products  
+are available free of charge at  
+http://communications.nasa.gov  
+for personalization using NASA 
+templates:
+>> Name badges
+>>  Invitation, Note Card  
+and Thank you cards
+>> Programs
+>> White folders (no template)
+>> Table tents
+>> Certificates
+These  standard  products  do  not  need  to  go  through  the  Communications  Material  Review 
+process. They  are  funded  by  the  Headquarters  Printing  Office,  are  available  at  no  cost  to  the 
+centers and can be obtained through the NASA printing offices.
+These products do not necessarily meet the graphic standards as outlined in this Style Guide 
+because they are considered stationery products rather than communications material. 
+
+38
+THE NASA IDENTITy SySTEM
+Stationery Products  Center-Specific Stationery
+National Aeronautics and Space Administration
+Headquarters
+Washington, D C  20546-0001
+Reply to Attn of:
+letterhead
+Business Cards
+National Aeronautics and Space Administration
+Jet Propulsion Laboratory
+Mail Stop____________
+4800 Oak Grove Drive
+Pasadena, California 91109-8099
+Ofcial Business
+National Aeronautics and Space Administration
+Jet Propulsion Laboratory
+Mail Stop____________
+4800 Oak Grove Drive
+Pasadena, California 91109-8099
+Ofcial Business
+Envelopes
+National Aeronautics and Space Administration
+Notepad
+National Aeronautics and
+Space Administration
+NASA Headquarters
+Mail Suite____________
+300 E Street SW 
+Washington, DC 20546-0001
+Ofcial Business
+postcard
+National Aeronautics and
+Space Administration
+NASA Headquarters
+Mail Suite _ _ _ _ _ _ _ _ _ _ _
+3 0 0   E   S t r e e t   S W
+Washington, DC 20546-0001
+Ofcial Business
+Mailing label
+www.nasa.gov
+These  standard  products  do  not  need  to  go  through  the  Communications  Material  Review 
+process. These standard products are available through the NASA printing offices.
+Please note that the standard letterhead below must be used and cannot be customized. All 
+NASA letterhead must be coordinated through the Headquarters Printing Officer in order to 
+ensure quality standards, such as consistent watermark and paper stock.
+The specifications for the electronic 
+files needed to create these standard 
+products are available at  
+http://communications.nasa.gov.
+>> Letterhead
+>> Envelopes
+>> Postcards
+>> Mailing labels
+>> Notepads
+>> Business cards
+
+39
+ THE NASA IDENTITy SySTEM
+XXXXXXXXXXX: XXXXXXXXXXX NASA Publication Style 
+insignia guide
+
+
+
+41
+ THE NASA IDENTITy SySTEM
+Regulations The NASA Insignia 
+The standards for the use of the NASA insignia and the NASA seal are in accordance with the 
+Code of Federal Regulations 14 CFR 1221 and the NASA Space Act of 1958 as amended. 
+NASA  does  not  endorse  any  commercial  product,  activity  or  service. Any  use  of  the  NASA 
+name, initials or any NASA emblem—including the NASA insignia, the NASA logo (retired in 
+1992 and sometimes referred to as “the worm”) and the NASA seal—must be reviewed and 
+approved by the Assistant Administrator for Public Affairs or designee.
+The NASA insignia should be reproduced only from original reproduction proofs, transparencies 
+or electronic files that can be obtained from the Headquarters Office of Public Affairs.
+RETIRED LOGO
+Use of the retired NASA logo  
+requires permission from the  
+Assistant Administrator for  
+Public Affairs or designee.
+The retired NASA logo and insignia  
+can never be used together.
+ADMINISTRATOR’S SEAL
+The NASA seal is reserved for the  
+NASA Administrator’s exclusive use for 
+official correspondence, events and 
+activities only.
+The NASA seal and insignia should 
+never be used together.
+The NASA seal should not be used as 
+the agency identifier, except on NASA 
+flags and security badges, according 
+to the Code of Federal Regulations 14 
+CFR 1221.
+
+42
+THE NASA IDENTITy SySTEM
+The NASA Insignia  One-Color Insignia
+vEctor top / 35% OF COLOR
+vEctor BottoM / GRADIENT OF COLOR
+SpHErE / 100% OF COLOR
+The one-color insignia consists of percentages ranging from 100 percent to 35 percent of an 
+appropriate color.
+>> The vector top is 35 percent of the color. 
+>> The vector bottom is a gradient ranging from   
+ 100 percent to 35 percent.
+>> The sphere is 100 percent of the color.
+The  percentages  may  not  be  altered  and  should  always  be  clearly  visible  when  placed  on  
+any background.
+
+43
+ THE NASA IDENTITy SySTEM
+One-Color Insignia: On Light or Medium Color Backgrounds The NASA Insignia 
+uNACCEpTABlE 
+The background is too light, so  
+the vector top is not shown clearly  
+use either a darker or a lighter 
+background 
+ACCEpTABlE 
+This background clearly shows all 
+the insignia’s elements  
+ 
+uNACCEpTABlE 
+This background is too dark, so 
+part of the vector bottom and 
+the sphere are not shown clearly  
+Either use a lighter background or 
+switch to the one-color insignia 
+with white rule instead 
+VECTOR TOP
+VECTOR BOTTOM
+SPHERE
+Choose insignia and background colors in which the vector top, vector bottom and sphere are 
+clearly visible against the background.
+
+44
+THE NASA IDENTITy SySTEM
+The NASA Insignia  One-Color Insignia: White Rule on Medium or Dark Color Backgrounds
+The vector gradient 
+must be visible beyond 
+the sphere’s rule.
+uNACCEpTABlE 
+This background is too light, so the 
+vector gradient is not shown clearly  
+Either use a darker background or 
+switch to a darker one-color insignia 
+instead 
+ACCEpTABlE 
+This background is dark enough to 
+display the vector gradient clearly 
+ACCEpTABlE 
+This background is dark enough to 
+display the vector gradient clearly 
+5
+/
+8
+ 
+IncH
+1
+1
+/
+2
+ 
+IncH
+0.5-pOiNT RulE
+The one-color insignia with white rule must be rendered in the same color as the background. 
+When using a medium or dark color background, the insignia’s vector bottom and its gradient 
+should be clearly visible against the background.
+
+45
+lore
+Dark Color Backgrounds
+On  dark  color  backgrounds,  use  the  one-color  insignia  with  white  rule.  The  insignia  must  
+be rendered in the same color as the background and should appear on a uniform area of 
+the background. 
+Medium Color Backgrounds
+On medium color backgrounds, use either the one-color insignia or the one-color insignia with 
+white rule. All insignias should appear on a uniform area of the background. The vector top, 
+vector bottom and sphere must remain clearly visible against the background.
+ THE NASA IDENTITy SySTEM
+Background Control: One-Color Insignia and One-Color Insignia with White Rule The NASA Insignia
+assurance (including IV&V), environmental related 
+design and test including orbital debris mitigation, 
+program surveillance, failure detection, isolation, 
+and recovery, 
+nderstand.
+Light Color Backgrounds
+On  light  color  backgrounds,  use  the  one-color  insignia.  The  one-color  insignia  should  be 
+rendered in the darkest color available and appear on a uniform area of the background. 
+ore
+
+46
+THE NASA IDENTITy SySTEM
+The NASA Insignia  Insignia Violations
+ X X X X
+ X X X X
+ X X X X
+Never delete elements of the 
+insignia 
+Never add elements inside 
+the insignia 
+Never add elements around 
+the insignia 
+Never distort the insignia 
+Never change the original 
+colors of the full-color insignia 
+Never add other colors to  
+any elements of the one-color 
+insignia 
+Never reverse the insignia Never add a glow to the 
+insignia 
+Never display the insignia 
+with a rule around the vector 
+Never change any of the  
+individual design elements on  
+the insignia to an outline 
+Never display the full-color 
+insignia with a rule around 
+the sphere 
+Never blur the insignia 
+
+47
+ THE NASA IDENTITy SySTEM
+Insignia Violations The NASA Insignia 
+ X X 
+ X X 
+Never change the typeface  
+in the insignia 
+Never combine the retired logo 
+with the insignia 
+                  Never incorporate other text into the insignia  
+Never position a one-color insignia on a busy area of an image 
+Never position a full-color insignia on a 
+busy area of an image 
+Never violate the insignia’s protected space by 
+placing an image over the insignia 
+ X X X X
