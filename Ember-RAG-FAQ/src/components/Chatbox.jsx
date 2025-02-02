@@ -100,7 +100,7 @@ const Chatbox = () => {
         <div className="chat-container">
           <div className="chat-header">
             <div className="title">
-              <img src="./src/assets/nasa.jpeg" alt="User avatar" className="avatar" />
+              <img src="./public/nasa.png" alt="User avatar" className="avatar" />
               NASA STYLE GUIDE
             </div>
             <div className="header-actions">
@@ -112,7 +112,7 @@ const Chatbox = () => {
           <div className="chat-body" ref={chatBodyRef}>
             {defaultMessageVisible && (
               <div className="chat-message bot">
-                <img src="./src/assets/nasa.jpeg" alt="Bot" className="message-avatar" />
+                <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
                 <div className="message">Ask me anything</div>
               </div>
             )}
@@ -121,7 +121,7 @@ const Chatbox = () => {
               <div key={index} className={`chat-message ${msg.sender}`}>
                 {msg.sender === "bot" ? (
                   <>
-                    <img src="./src/assets/nasa.jpeg" alt="Bot" className="message-avatar" />
+                    <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
                     <div className="message">{msg.text}</div>
                   </>
                 ) : (
@@ -132,7 +132,7 @@ const Chatbox = () => {
 
             {loading && (
               <div className="chat-message bot">
-                <img src="./src/assets/Nasa.png" alt="Bot" className="message-avatar" />
+                <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
                 <div className="message typing">
                   <span></span>
                   <span></span>
@@ -167,7 +167,7 @@ const Chatbox = () => {
       )}
 
       <div className="floating-button" onClick={() => setIsOpen(!isOpen)}>
-        <img src="src/assets/nasa.jpeg" alt="Chatbot" />
+        <img src="./public/nasa.png" alt="Chatbot" />
         <p className="inscription"><span className="footer-text">NASA</span><br />Ask just about anything</p>
       </div>
     </>
