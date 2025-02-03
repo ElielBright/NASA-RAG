@@ -60,7 +60,8 @@ const Chatbox = () => {
 
     try {
       setTimeout(async () => {
-        const response = await axios.post("http://localhost:5000/api/message", { message: userMessage });
+        const apiUrl = import.meta.env.VITE_API_URL;
+        const response = await axios.post(`${apiUrl}/message`, { message: userMessage });
         const botResponse = response.data.response;
         
         setMessages((prevMessages) => [
@@ -100,7 +101,7 @@ const Chatbox = () => {
         <div className="chat-container">
           <div className="chat-header">
             <div className="title">
-              <img src="./public/nasa.png" alt="User avatar" className="avatar" />
+              <img src="./nasa.jpeg" alt="User avatar" className="avatar" />
               NASA STYLE GUIDE
             </div>
             <div className="header-actions">
@@ -112,7 +113,7 @@ const Chatbox = () => {
           <div className="chat-body" ref={chatBodyRef}>
             {defaultMessageVisible && (
               <div className="chat-message bot">
-                <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
+                <img src="./nasa.jpeg" alt="Bot" className="message-avatar" />
                 <div className="message">Ask me anything</div>
               </div>
             )}
@@ -121,7 +122,7 @@ const Chatbox = () => {
               <div key={index} className={`chat-message ${msg.sender}`}>
                 {msg.sender === "bot" ? (
                   <>
-                    <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
+                    <img src="./nasa.jpeg" alt="Bot" className="message-avatar" />
                     <div className="message">{msg.text}</div>
                   </>
                 ) : (
@@ -132,7 +133,7 @@ const Chatbox = () => {
 
             {loading && (
               <div className="chat-message bot">
-                <img src="./public/nasa.png" alt="Bot" className="message-avatar" />
+                <img src="./nasa.jpeg" alt="Bot" className="message-avatar" />
                 <div className="message typing">
                   <span></span>
                   <span></span>
@@ -167,7 +168,7 @@ const Chatbox = () => {
       )}
 
       <div className="floating-button" onClick={() => setIsOpen(!isOpen)}>
-        <img src="./public/nasa.png" alt="Chatbot" />
+        <img src="./public/nasa.jpeg" alt="Chatbot" />
         <p className="inscription"><span className="footer-text">NASA</span><br />Ask just about anything</p>
       </div>
     </>

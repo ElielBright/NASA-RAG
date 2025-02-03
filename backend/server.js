@@ -84,13 +84,27 @@ const fetchGeminiResponse = async (message, context) => {
   }
 };
 
+// Serve static frontend files from React (Vite) build
+const frontendPath = path.join(__dirname, "../Ember-RAG-FAQ/dist");
+app.use(express.static(frontendPath));
+
+
+// Catch-all for Vite's client-side routing
+app.get("*", (req, res) => {
+  res.sendFile(path.join(frontendPath, "index.html"), (err) => {
+    if (err) {
+      res.status(500).send("Error loading the frontend");
+    }
+  });
+});
+
 // --- API ENDPOINT ---
 app.post("/api/message", async (req, res) => {
   const { message } = req.body;
   if (!message) return res.status(400).json({ error: "No message provided" });
 
   // Handle greetings naturally
-  const greetings = ["hello", "hi", "hey"];
+  const greetings = ["hello", "hi", "hey", "Hey there"];
   if (greetings.includes(message.toLowerCase())) {
     return res.json({ response: "Welcome to the NASA Style Guide. What section would you like to reference?" });
   }
